@@ -1,0 +1,488 @@
+{
+  "items": [
+    {
+      "description": "These are projects and lists of projects you can contribue to.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LanguageTool",
+          "description": "LanguageTool is an Open Source proofreading tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T10:04:35Z",
+            "owner": "languagetool-org",
+            "repo": "languagetool",
+            "stars": 14791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owncast",
+          "description": "A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:33:36Z",
+            "owner": "owncast",
+            "repo": "owncast",
+            "stars": 11457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oppia",
+          "description": "Oppia is an online learning tool that enables anyone to easily create and share interactive activities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:58:23Z",
+            "owner": "oppia",
+            "repo": "oppia",
+            "stars": 6762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome App Ideas",
+          "description": "A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T16:21:19Z",
+            "owner": "tastejs",
+            "repo": "awesome-app-ideas",
+            "stars": 5630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swag-for-dev",
+          "description": "😎👕🧦 A list of swag opportunities for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T08:36:38Z",
+            "owner": "swapagarwal",
+            "repo": "swag-for-dev",
+            "stars": 4388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Sourdough Framework",
+          "description": "An opportunity to share your bread / sourdough recipes!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-05T12:03:31Z",
+            "owner": "hendricius",
+            "repo": "the-sourdough-framework",
+            "stars": 3612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Turing Way",
+          "description": "A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-08-13T08:59:26Z",
+            "owner": "the-turing-way",
+            "repo": "the-turing-way",
+            "stars": 2168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Fantasy",
+          "description": "A list of fantasy books and TV-series that anyone can contribute to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-05T18:46:00Z",
+            "owner": "RichardLitt",
+            "repo": "awesome-fantasy",
+            "stars": 1548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevJoke",
+          "description": "#DevJoke. Submit a PR if you know a good dev joke.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T01:02:49Z",
+            "owner": "shrutikapoor08",
+            "repo": "devjoke",
+            "stars": 1055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Native Glossary",
+          "description": "CNCF Glossary explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T17:02:11Z",
+            "owner": "cncf",
+            "repo": "glossary",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeX Gboard Dictionary",
+          "description": "⌨ Add shortcuts to a Gboard dictionary to allow Unicode to be typed with simple shortcuts on Android ⚡.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-03T20:05:31Z",
+            "owner": "DenverCoder1",
+            "repo": "latex-gboard-dictionary",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PetMe",
+          "description": "A platform for finding homes for animals in need, always open to contributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-05-05T07:17:45Z",
+            "owner": "akshitagupta15june",
+            "repo": "PetMe",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List of all the awesome lists",
+          "description": "A collection of URLs. Excellent way to send your first pull-request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-29T04:15:12Z",
+            "owner": "szabgab",
+            "repo": "awesome-lists",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Drinks",
+          "description": "Submit drink recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-20T21:56:43Z",
+            "owner": "alfg",
+            "repo": "opendrinks",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Science Notes",
+          "description": "Share notes across topics in data science such as mathematics, visualization, and modeling!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-03T19:37:55Z",
+            "owner": "wyattowalsh",
+            "repo": "data-science-notes",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CheatSheets",
+          "description": "Cheat sheet documentation project that allows contributors to add and reference most common commands for systems we know and love in a single place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-12T18:30:30Z",
+            "owner": "Jahenr",
+            "repo": "CheatSheets",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Practice and Resources",
+          "description": "Make your first pull request with beginner friendly project, just add relevant resources which you find beneficial and adding values to your learning journey💪.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-16T19:19:00Z",
+            "owner": "Ashish-khanagwal",
+            "repo": "Open-source-practice-and-resources",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List of Open Source projects",
+          "description": "by corporations, Higher Education Institutions, and governments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T10:27:39Z",
+            "owner": "OSDC-Code-Maven",
+            "repo": "open-source-by-organizations",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pizza Verse",
+          "description": "A repository for sharing pizza recipes, facts, regional pizzas, and traditional foods from your home country. Non-programmers can add recipes or food facts by modifying Markdown files as explained in their Contribution Guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T09:57:03Z",
+            "owner": "OpenSource-Communities",
+            "repo": "pizza-verse",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Animal Care",
+          "description": "List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T09:22:10Z",
+            "owner": "omkar-foss",
+            "repo": "awesome-animal-care",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Language Partner",
+          "description": "Local-first Japanese speaking practice app for Korean learners. Non-programmers can improve Korean/Japanese docs, review beginner dialogue naturalness, and add learner notes through first-timers-only issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:47:37Z",
+            "owner": "duct-tape2",
+            "repo": "ai-language-partner",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "The projects"
+    },
+    {
+      "description": "These are resources that will help you contribute to projects (and can be contributed to themselves!)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "First Contributions",
+          "description": "Quick guide on forks, pull requests and contributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T09:34:54Z",
+            "owner": "firstcontributions",
+            "repo": "first-contributions",
+            "stars": 55460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-to-Z-Resources-for-Students",
+          "description": "This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-17T14:00:26Z",
+            "owner": "dipakkr",
+            "repo": "A-to-Z-Resources-for-Students",
+            "stars": 22162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexbox Froggy",
+          "description": "Learn CSS Flexbox while playing!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-04T19:19:53Z",
+            "owner": "thomaspark",
+            "repo": "flexboxfroggy",
+            "stars": 7375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-eli5",
+          "description": "👶 Tech explained like you're five!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-26T20:15:21Z",
+            "owner": "swapagarwal",
+            "repo": "awesome-eli5",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Useful repositories",
+          "description": "A collection of useful repositories which provide learning resources for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-15T09:23:43Z",
+            "owner": "Aatmaj-Zephyr",
+            "repo": "A-collection-of-useful-repositories",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-inspiration",
+          "description": "🔥 A curated list of content worth sharing to help you get inspired! ⚡️.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-02T19:30:52Z",
+            "owner": "swapagarwal",
+            "repo": "awesome-inspiration",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub for Non-Programmers",
+          "description": "Guide on using GitHub for workflows other than programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-08-12T23:25:47Z",
+            "owner": "tvanantwerp",
+            "repo": "github-for-non-programmers",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DX Knowledge Base",
+          "description": "Open source Knowledge Base filled with articles about Developer Experience and related topics like software creation process and team management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-03T06:51:33Z",
+            "owner": "DXHeroes",
+            "repo": "knowledge-base-content",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basic Github commands",
+          "description": "This repository serves as a comprehensive guide to the fundamental commands of Git. Whether you are a beginner or looking to refresh your knowledge, this repository provides clear explanations and practical examples of essential Git commands. Contributors can enhance this project by adding new chapters or expanding ongoing ones, working on translation efforts to make the content accessible to a broader audience, providing feedback and suggestions for better documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-09T10:43:18Z",
+            "owner": "LiviaGitHub",
+            "repo": "basic-github-commands",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "The resources"
+    },
+    {
+      "description": "These are projects which no longer accept contributions but are still interesting.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code And Talk",
+          "description": "Collecting data about tech conferences in JSON files. The README has links to the file describing how to add Events to the \"database\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-04T09:52:30Z",
+            "owner": "szabgab",
+            "repo": "codeandtalk.com",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liar Game",
+          "description": "A web-based multiplayer game. Contribute to the list of categories / words!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-26T22:25:55Z",
+            "owner": "amphinomid",
+            "repo": "liar",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Inactive projects"
+    },
+    {
+      "description": "If you'd like to add an item, please submit a pull request with a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.",
+      "items": [],
+      "title": "Contributing to this list"
+    },
+    {
+      "description": "To the extent possible under law, the author has waived all copyright and related or neighbouring rights of this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:12:32.816Z",
+    "original_repository": "szabgab/awesome-for-non-programmers",
+    "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
+    "enhanced_repository": "enhansome/enhansome-for-non-programmers",
+    "enhanced_repository_description": null,
+    "title": "Awesome for non-programmers with stars"
+  }
+}
