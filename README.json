@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T10:04:35Z",
+            "last_commit": "2026-08-14T07:22:48Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14791
+            "stars": 14796
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T22:33:36Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11457
+            "stars": 11460
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:58:23Z",
+            "last_commit": "2026-08-14T09:34:44Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6762
+            "stars": 6765
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5630
+            "stars": 5631
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1548
+            "stars": 1549
           }
         },
         {
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-06T17:02:11Z",
+            "last_commit": "2026-08-14T07:27:34Z",
             "owner": "cncf",
             "repo": "glossary",
             "stars": 721
@@ -182,7 +182,7 @@
             "last_commit": "2026-07-29T04:15:12Z",
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 438
+            "stars": 440
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-07-20T09:22:10Z",
             "owner": "omkar-foss",
             "repo": "awesome-animal-care",
-            "stars": 16
+            "stars": 18
           }
         },
         {
@@ -291,7 +291,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T04:47:37Z",
+            "last_commit": "2026-08-13T10:19:18Z",
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
             "stars": 7
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T09:34:54Z",
+            "last_commit": "2026-08-14T09:51:43Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55460
+            "stars": 55473
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22162
+            "stars": 22163
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-01-04T19:19:53Z",
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7375
+            "stars": 7377
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2024-08-12T23:25:47Z",
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:12:32.816Z",
+    "last_updated": "2026-08-14T10:08:02.493Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
     "enhanced_repository": "enhansome/enhansome-for-non-programmers",
