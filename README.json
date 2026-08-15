@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T07:22:48Z",
+            "last_commit": "2026-08-14T14:53:45Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14796
+            "stars": 14808
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T22:33:36Z",
+            "last_commit": "2026-08-14T19:11:38Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11460
+            "stars": 11464
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:34:44Z",
+            "last_commit": "2026-08-15T06:19:52Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6765
+            "stars": 6767
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-08-07T01:02:49Z",
             "owner": "shrutikapoor08",
             "repo": "devjoke",
-            "stars": 1055
+            "stars": 1054
           }
         },
         {
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T09:51:43Z",
+            "last_commit": "2026-08-15T09:14:23Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55473
+            "stars": 55487
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22163
+            "stars": 22164
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-01-04T19:19:53Z",
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7377
+            "stars": 7376
           }
         },
         {
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:08:02.493Z",
+    "last_updated": "2026-08-15T09:30:36.337Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
     "enhanced_repository": "enhansome/enhansome-for-non-programmers",
