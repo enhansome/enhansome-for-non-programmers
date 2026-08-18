@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T06:47:17Z",
+            "last_commit": "2026-08-18T07:17:36Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14817
+            "stars": 14821
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T01:30:56Z",
+            "last_commit": "2026-08-17T19:25:08Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11465
+            "stars": 11466
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:00:44Z",
+            "last_commit": "2026-08-17T22:44:08Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6769
+            "stars": 6771
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5631
+            "stars": 5632
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-06-05T12:03:31Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3612
+            "stars": 3613
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-13T08:59:26Z",
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2168
+            "stars": 2169
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-08-07T01:02:49Z",
             "owner": "shrutikapoor08",
             "repo": "devjoke",
-            "stars": 1054
+            "stars": 1053
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-07-29T04:15:12Z",
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -291,7 +291,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T10:19:18Z",
+            "last_commit": "2026-08-17T10:05:46Z",
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
             "stars": 7
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-17T09:44:31Z",
+            "last_commit": "2026-08-18T09:13:25Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55526
+            "stars": 55540
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22174
+            "stars": 22179
           }
         },
         {
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:48:03.178Z",
+    "last_updated": "2026-08-18T09:38:03.227Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
     "enhanced_repository": "enhansome/enhansome-for-non-programmers",
