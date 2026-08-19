@@ -12,7 +12,7 @@ Inspired by [Awesome First Pull Request Opportunities](https://github.com/MunGel
 
 These are projects and lists of projects you can contribue to.
 
-* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 14,833 | 🐛 2,145 | 🌐 Java | 📅 2026-08-18: [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
+* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 14,835 | 🐛 2,145 | 🌐 Java | 📅 2026-08-19: [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
 * [Owncast](https://github.com/owncast/owncast) ⭐ 11,466 | 🐛 175 | 🌐 Go | 📅 2026-08-17: A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
 * [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia) ⭐ 6,771 | 🐛 1,808 | 🌐 Python | 📅 2026-08-19: [Oppia](https://www.oppia.org) is an online learning tool that enables anyone to easily create and share interactive activities.
 * [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,632 | 🐛 130 | 📅 2024-06-06: A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
@@ -41,8 +41,8 @@ These are projects and lists of projects you can contribue to.
 
 These are resources that will help you contribute to projects (and can be contributed to themselves!)
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions) ⭐ 55,552 | 🐛 87 | 📅 2026-08-19: Quick guide on forks, pull requests and contributions.
-* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,183 | 🐛 44 | 📅 2026-06-17: This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
+* [First Contributions](https://github.com/firstcontributions/first-contributions) ⭐ 55,554 | 🐛 87 | 📅 2026-08-19: Quick guide on forks, pull requests and contributions.
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,186 | 🐛 44 | 📅 2026-06-17: This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) ⭐ 7,379 | 🐛 48 | 🌐 JavaScript | 📅 2026-01-04: Learn CSS Flexbox while playing!
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5) ⭐ 450 | 🐛 47 | 📅 2023-10-26: 👶 Tech explained like you're five!
 * [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) ⭐ 298 | 🐛 3 | 📅 2026-01-15: A collection of useful repositories which provide learning resources for developers.
