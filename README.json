@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-18T07:17:36Z",
+            "last_commit": "2026-08-18T17:26:45Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14821
+            "stars": 14833
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266445736,
             "language": "Go",
             "last_commit": "2026-08-17T19:25:08Z",
             "owner": "owncast",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-17T22:44:08Z",
+            "last_commit": "2026-08-19T07:14:34Z",
             "owner": "oppia",
             "repo": "oppia",
             "stars": 6771
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49651176,
             "language": null,
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121921584,
             "language": "JavaScript",
             "last_commit": "2024-12-09T08:36:38Z",
             "owner": "swapagarwal",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450634273,
             "language": "TeX",
             "last_commit": "2026-06-05T12:03:31Z",
             "owner": "hendricius",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155712190,
             "language": "TeX",
             "last_commit": "2026-08-13T08:59:26Z",
             "owner": "the-turing-way",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33763279,
             "language": null,
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1548
+            "stars": 1549
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175751187,
             "language": "Python",
             "last_commit": "2024-08-07T01:02:49Z",
             "owner": "shrutikapoor08",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329970318,
             "language": "HTML",
             "last_commit": "2026-08-14T07:27:34Z",
             "owner": "cncf",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280908395,
             "language": null,
             "last_commit": "2025-06-03T20:05:31Z",
             "owner": "DenverCoder1",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521854608,
             "language": "HTML",
             "last_commit": "2025-05-05T07:17:45Z",
             "owner": "akshitagupta15june",
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660112505,
             "language": "Perl",
             "last_commit": "2026-07-29T04:15:12Z",
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 441
+            "stars": 444
           }
         },
         {
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208540153,
             "language": "JavaScript",
             "last_commit": "2026-06-20T21:56:43Z",
             "owner": "alfg",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327221605,
             "language": "JavaScript",
             "last_commit": "2023-10-03T19:37:55Z",
             "owner": "wyattowalsh",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418893241,
             "language": null,
             "last_commit": "2025-10-12T18:30:30Z",
             "owner": "Jahenr",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534507274,
             "language": null,
             "last_commit": "2025-10-16T19:19:00Z",
             "owner": "Ashish-khanagwal",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609771822,
             "language": "Python",
             "last_commit": "2026-07-01T10:27:39Z",
             "owner": "OSDC-Code-Maven",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670155399,
             "language": null,
             "last_commit": "2026-08-09T09:57:03Z",
             "owner": "OpenSource-Communities",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138218431,
             "language": null,
             "last_commit": "2026-07-20T09:22:10Z",
             "owner": "omkar-foss",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1293331196,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:05:46Z",
             "owner": "duct-tape2",
@@ -310,11 +331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-18T09:13:25Z",
+            "last_commit": "2026-08-19T09:16:49Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55540
+            "stars": 55552
           }
         },
         {
@@ -324,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149113514,
             "language": null,
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22179
+            "stars": 22183
           }
         },
         {
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46774900,
             "language": "JavaScript",
             "last_commit": "2026-01-04T19:19:53Z",
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7376
+            "stars": 7379
           }
         },
         {
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133849928,
             "language": null,
             "last_commit": "2023-10-26T20:15:21Z",
             "owner": "swapagarwal",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468614243,
             "language": null,
             "last_commit": "2026-01-15T09:23:43Z",
             "owner": "Aatmaj-Zephyr",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95909812,
             "language": null,
             "last_commit": "2024-07-02T19:30:52Z",
             "owner": "swapagarwal",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43909123,
             "language": "CSS",
             "last_commit": "2024-08-12T23:25:47Z",
             "owner": "tvanantwerp",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172480548,
             "language": "TypeScript",
             "last_commit": "2025-11-03T06:51:33Z",
             "owner": "DXHeroes",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539364064,
             "language": null,
             "last_commit": "2022-11-09T10:43:18Z",
             "owner": "LiviaGitHub",
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71823631,
             "language": "HTML",
             "last_commit": "2024-06-04T09:52:30Z",
             "owner": "szabgab",
@@ -456,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328535836,
             "language": "JavaScript",
             "last_commit": "2023-11-26T22:25:55Z",
             "owner": "amphinomid",
@@ -465,20 +497,10 @@
         }
       ],
       "title": "Inactive projects"
-    },
-    {
-      "description": "If you'd like to add an item, please submit a pull request with a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.",
-      "items": [],
-      "title": "Contributing to this list"
-    },
-    {
-      "description": "To the extent possible under law, the author has waived all copyright and related or neighbouring rights of this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:38:03.227Z",
+    "last_updated": "2026-08-19T09:38:22.533Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
     "enhanced_repository": "enhansome/enhansome-for-non-programmers",
