@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-20T08:52:03Z",
+            "last_commit": "2026-08-21T08:53:09Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14839
+            "stars": 14842
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-17T19:25:08Z",
+            "last_commit": "2026-08-20T10:57:03Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11466
+            "stars": 11465
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-20T06:53:00Z",
+            "last_commit": "2026-08-21T04:46:04Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6771
+            "stars": 6772
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-12-09T08:36:38Z",
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4390
+            "stars": 4391
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T08:59:26Z",
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2169
+            "stars": 2168
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1550
+            "stars": 1552
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-19T22:48:08Z",
             "owner": "cncf",
             "repo": "glossary",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-07-29T04:15:12Z",
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 445
+            "stars": 447
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 1293331196,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:05:46Z",
+            "last_commit": "2026-08-20T09:46:53Z",
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
             "stars": 7
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-20T09:11:51Z",
+            "last_commit": "2026-08-21T08:48:19Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55573
+            "stars": 55587
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22192
+            "stars": 22198
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-08-12T23:25:47Z",
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 200
+            "stars": 201
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:39:23.128Z",
+    "last_updated": "2026-08-21T09:41:15.563Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
