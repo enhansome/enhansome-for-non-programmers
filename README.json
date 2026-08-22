@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-21T08:53:09Z",
+            "last_commit": "2026-08-22T05:20:11Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14842
+            "stars": 14849
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-20T10:57:03Z",
+            "last_commit": "2026-08-22T06:43:07Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11465
+            "stars": 11466
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-21T04:46:04Z",
+            "last_commit": "2026-08-22T09:14:33Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6772
+            "stars": 6775
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1552
+            "stars": 1554
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-21T08:48:19Z",
+            "last_commit": "2026-08-22T09:13:16Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55587
+            "stars": 55611
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22198
+            "stars": 22199
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:41:15.563Z",
+    "last_updated": "2026-08-22T09:31:05.616Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
