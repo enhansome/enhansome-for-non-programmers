@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-22T05:20:11Z",
+            "last_commit": "2026-08-23T09:17:39Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14849
+            "stars": 14853
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T06:43:07Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11466
+            "stars": 11469
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-22T09:14:33Z",
+            "last_commit": "2026-08-23T04:07:31Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5633
+            "stars": 5636
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T08:59:26Z",
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2168
+            "stars": 2169
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-06-03T20:05:31Z",
             "owner": "DenverCoder1",
             "repo": "latex-gboard-dictionary",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-22T09:13:16Z",
+            "last_commit": "2026-08-23T09:31:26Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55611
+            "stars": 55633
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22199
+            "stars": 22202
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-01-04T19:19:53Z",
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7378
+            "stars": 7377
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2023-10-26T20:15:21Z",
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 450
+            "stars": 452
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-07-02T19:30:52Z",
             "owner": "swapagarwal",
             "repo": "awesome-inspiration",
-            "stars": 296
+            "stars": 297
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-08-12T23:25:47Z",
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:31:05.616Z",
+    "last_updated": "2026-08-23T09:32:34.682Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
