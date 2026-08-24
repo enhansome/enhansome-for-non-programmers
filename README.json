@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-23T09:17:39Z",
+            "last_commit": "2026-08-24T09:35:20Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14853
+            "stars": 14859
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T06:43:07Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11469
+            "stars": 11470
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-23T04:07:31Z",
+            "last_commit": "2026-08-24T09:45:07Z",
             "owner": "oppia",
             "repo": "oppia",
             "stars": 6776
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5636
+            "stars": 5637
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 450634273,
             "language": "TeX",
-            "last_commit": "2026-06-05T12:03:31Z",
+            "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3613
+            "stars": 3614
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-07-29T04:15:12Z",
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 447
+            "stars": 450
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-23T09:31:26Z",
+            "last_commit": "2026-08-24T09:44:43Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55633
+            "stars": 55644
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22202
+            "stars": 22203
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2023-10-26T20:15:21Z",
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-01-15T09:23:43Z",
             "owner": "Aatmaj-Zephyr",
             "repo": "A-collection-of-useful-repositories",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-07-02T19:30:52Z",
             "owner": "swapagarwal",
             "repo": "awesome-inspiration",
-            "stars": 297
+            "stars": 298
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2025-11-03T06:51:33Z",
             "owner": "DXHeroes",
             "repo": "knowledge-base-content",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2022-11-09T10:43:18Z",
             "owner": "LiviaGitHub",
             "repo": "basic-github-commands",
-            "stars": 22
+            "stars": 23
           }
         }
       ],
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:32:34.682Z",
+    "last_updated": "2026-08-24T09:53:06.373Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
