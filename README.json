@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-24T09:35:20Z",
+            "last_commit": "2026-08-24T10:19:19Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14859
+            "stars": 14861
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T06:43:07Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11470
+            "stars": 11469
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-24T09:45:07Z",
+            "last_commit": "2026-08-24T12:16:42Z",
             "owner": "oppia",
             "repo": "oppia",
             "stars": 6776
@@ -75,7 +75,7 @@
             "last_commit": "2024-12-09T08:36:38Z",
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4391
+            "stars": 4390
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-19T14:47:40Z",
             "owner": "omkar-foss",
             "repo": "awesome-animal-care",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 1293331196,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T09:46:53Z",
+            "last_commit": "2026-08-24T10:11:15Z",
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
             "stars": 7
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-24T09:44:43Z",
+            "last_commit": "2026-08-24T13:59:38Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55644
+            "stars": 55646
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:53:06.373Z",
+    "last_updated": "2026-08-24T14:06:15.935Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
