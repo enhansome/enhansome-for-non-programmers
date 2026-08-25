@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-25T05:36:37Z",
+            "last_commit": "2026-08-25T09:11:45Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14865
+            "stars": 14866
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-25T04:55:59Z",
+            "last_commit": "2026-08-25T09:03:15Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6777
+            "stars": 6778
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T08:59:26Z",
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2169
+            "stars": 2170
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-25T04:35:58Z",
+            "last_commit": "2026-08-25T08:45:47Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55654
+            "stars": 55659
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:53.389Z",
+    "last_updated": "2026-08-25T09:40:22.178Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
