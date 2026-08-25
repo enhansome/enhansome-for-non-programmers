@@ -12,10 +12,10 @@
             "archived": false,
             "id": 11981144,
             "language": "Java",
-            "last_commit": "2026-08-24T10:19:19Z",
+            "last_commit": "2026-08-25T05:36:37Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14861
+            "stars": 14865
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-22T06:43:07Z",
+            "last_commit": "2026-08-25T02:27:31Z",
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11469
+            "stars": 11470
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-24T12:16:42Z",
+            "last_commit": "2026-08-25T04:55:59Z",
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6776
+            "stars": 6777
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5637
+            "stars": 5639
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-12-09T08:36:38Z",
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4390
+            "stars": 4391
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3614
+            "stars": 3615
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 329970318,
             "language": "HTML",
-            "last_commit": "2026-08-19T22:48:08Z",
+            "last_commit": "2026-08-24T18:58:35Z",
             "owner": "cncf",
             "repo": "glossary",
             "stars": 723
@@ -195,7 +195,7 @@
             "last_commit": "2026-07-29T04:15:12Z",
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-24T13:59:38Z",
+            "last_commit": "2026-08-25T04:35:58Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55646
+            "stars": 55654
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2023-10-26T20:15:21Z",
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 453
+            "stars": 454
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:15.935Z",
+    "last_updated": "2026-08-25T05:59:53.389Z",
     "original_repository": "szabgab/awesome-for-non-programmers",
     "original_repository_id": 120436826,
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
