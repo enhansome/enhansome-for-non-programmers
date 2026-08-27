@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T09:29:08Z",
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14876
+            "stars": 14878
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-27T10:19:08Z",
+            "last_commit": "2026-08-27T18:37:24Z",
             "owner": "owncast",
             "repo": "owncast",
             "stars": 11474
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-27T10:21:51Z",
+            "last_commit": "2026-08-27T14:56:17Z",
             "owner": "oppia",
             "repo": "oppia",
             "stars": 6780
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-06T16:21:19Z",
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5639
+            "stars": 5640
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3616
+            "stars": 3617
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-27T11:14:07Z",
+            "last_commit": "2026-08-27T19:29:46Z",
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55692
+            "stars": 55705
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22209
+            "stars": 22207
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:22.218Z",
+    "last_updated": "2026-08-27T19:41:56.786Z",
     "original_repository_info": {
       "archived": false,
       "id": 120436826,
@@ -508,7 +508,7 @@
       "last_commit": "2026-08-05T05:45:18Z",
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1943
+      "stars": 1944
     },
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
     "enhanced_repository": "enhansome/enhansome-for-non-programmers",
