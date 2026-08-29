@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Style and Grammar Checker for 25+ Languages",
+            "homepage": "https://languagetool.org",
             "id": 11981144,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T15:47:06Z",
+            "open_issues": 2147,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14886
+            "stars": 14888,
+            "topics": [
+              "grammar",
+              "natural-language",
+              "natural-language-processing",
+              "proofreading",
+              "spellcheck",
+              "style-checker"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -26,12 +38,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
+            "homepage": "https://owncast.online",
             "id": 266445736,
             "language": "Go",
-            "last_commit": "2026-08-28T19:49:11Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:21:18Z",
+            "open_issues": 173,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11476
+            "stars": 11478,
+            "topics": [
+              "activitypub",
+              "broadcasting",
+              "chat",
+              "decentralized",
+              "federation",
+              "fediverse",
+              "golang",
+              "hacktoberfest",
+              "hls",
+              "live",
+              "livestream",
+              "owncast",
+              "rtmp",
+              "self-hosted",
+              "streaming-video",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -42,12 +76,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free, online learning platform to make quality education accessible for all.",
+            "homepage": "https://www.oppia.org",
             "id": 40687563,
             "language": "Python",
-            "last_commit": "2026-08-28T18:23:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:24:11Z",
+            "open_issues": 1806,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6781
+            "stars": 6781,
+            "topics": [
+              "angular",
+              "appengine",
+              "appengine-python",
+              "education",
+              "hacktoberfest",
+              "interactive",
+              "javascript",
+              "learning",
+              "nonprofit",
+              "python",
+              "sdg",
+              "sdg-4",
+              "sdg4",
+              "sdgs",
+              "teaching",
+              "tutor",
+              "tutorials",
+              "typescript",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -58,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of awesome app ideas",
+            "homepage": null,
             "id": 49651176,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-06T16:21:19Z",
+            "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5640
+            "stars": 5640,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -74,12 +138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 swag opportunities for developers",
+            "homepage": "http://devswag.io",
             "id": 121921584,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-12-09T08:36:38Z",
+            "open_issues": 78,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4389
+            "stars": 4389,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "stickers",
+              "swag"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -90,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source book dedicated to helping you to make the best possible sourdough bread at home.",
+            "homepage": "https://breadco.de/book",
             "id": 450634273,
             "language": "TeX",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T09:24:43Z",
+            "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3617
+            "stars": 3617,
+            "topics": [
+              "baking",
+              "bread",
+              "cooking",
+              "sourdough"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -106,12 +191,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science",
+            "homepage": "https://book.the-turing-way.org/",
             "id": 155712190,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T14:24:33Z",
+            "open_issues": 607,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2171
+            "stars": 2171,
+            "topics": [
+              "community",
+              "data-science",
+              "education"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -122,12 +216,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":european_castle: Fantasy literature worth reading",
+            "homepage": null,
             "id": 33763279,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-05T18:46:00Z",
+            "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1557
+            "stars": 1558,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "fantasy",
+              "list",
+              "literature",
+              "movies"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -138,12 +244,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "#DevJoke. Submit a PR if you know a good dev joke. ",
+            "homepage": null,
             "id": 175751187,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-07T01:02:49Z",
+            "open_issues": 163,
             "owner": "shrutikapoor08",
             "repo": "devjoke",
-            "stars": 1054
+            "stars": 1054,
+            "topics": [
+              "developer-jokes",
+              "humor",
+              "jokes",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -154,12 +270,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://glossary.cncf.io).",
+            "homepage": "https://glossary.cncf.io/",
             "id": 329970318,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:29:01Z",
+            "open_issues": 207,
             "owner": "cncf",
             "repo": "glossary",
-            "stars": 724
+            "stars": 724,
+            "topics": [
+              "cloud-native",
+              "cncf"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -170,12 +294,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX",
+            "homepage": "https://www.youtube.com/watch?v=bGWikJu37WI",
             "id": 280908395,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-03T20:05:31Z",
+            "open_issues": 7,
             "owner": "DenverCoder1",
             "repo": "latex-gboard-dictionary",
-            "stars": 525
+            "stars": 525,
+            "topics": [
+              "calculus",
+              "dictionary",
+              "gboard",
+              "gboard-dictionary",
+              "hacktoberfest",
+              "keyboard",
+              "keyboard-shortcuts",
+              "latex",
+              "latex-shortcuts",
+              "math",
+              "math-symbols",
+              "shortcuts",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -186,12 +329,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PetMe is an all-in-one platform that allows animals to be adopted, donated to pet lovers, and provides emergency medical care to stray animals in need. Star this repo⭐",
+            "homepage": "https://akshitagupta15june.github.io/PetMe/",
             "id": 521854608,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-05-05T07:17:45Z",
+            "open_issues": 777,
             "owner": "akshitagupta15june",
             "repo": "PetMe",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "collaborate",
+              "communityexchange",
+              "educative",
+              "github",
+              "github-pages",
+              "hacktoberfest",
+              "open-source",
+              "student-vscode"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -202,12 +359,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The awesome list of all the awesome lists",
+            "homepage": null,
             "id": 660112505,
             "language": "Perl",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-29T04:15:12Z",
+            "open_issues": 0,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "readme"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -218,12 +385,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cocktail: Open Source Drinks! Add your own recipe in a pull request! Inspired by 🎃Hacktoberfest!",
+            "homepage": "https://opendrinks.io",
             "id": 208540153,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-20T21:56:43Z",
+            "open_issues": 36,
             "owner": "alfg",
             "repo": "opendrinks",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "cocktails",
+              "drinks",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "javascript",
+              "js",
+              "node",
+              "recipes",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -234,12 +416,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source project hosted at https://makeuseofdata.com to crowdsource a robust collection of notes related to data science (math, visualization, modeling, etc)",
+            "homepage": "https://makeuseofdata.com",
             "id": 327221605,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-03T19:37:55Z",
+            "open_issues": 100,
             "owner": "wyattowalsh",
             "repo": "data-science-notes",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "calculus",
+              "classification",
+              "compilation",
+              "crowdsourcing",
+              "data-science",
+              "first-timers",
+              "first-timers-only",
+              "jupyter-book",
+              "linear-algebra",
+              "machine-learning",
+              "modeling",
+              "probability",
+              "regression",
+              "simulation",
+              "statistics",
+              "up-for-grabs",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -250,12 +455,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers",
+            "homepage": null,
             "id": 418893241,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-12T18:30:30Z",
+            "open_issues": 3,
             "owner": "Jahenr",
             "repo": "CheatSheets",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "begginer-friendly",
+              "beginner-project",
+              "chill",
+              "community",
+              "documentation",
+              "documentation-tool",
+              "first-timers-friendly",
+              "git",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-starter",
+              "hacktoberfest2025",
+              "markdown",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -266,12 +491,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "best resources for the community & home of Open Source",
+            "homepage": null,
             "id": 534507274,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-16T19:19:00Z",
+            "open_issues": 0,
             "owner": "Ashish-khanagwal",
             "repo": "Open-source-practice-and-resources",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "android-development",
+              "devops",
+              "hacktoberfest",
+              "hacktoberfest-starter",
+              "hacktoberfest2025",
+              "machine-learning",
+              "programming",
+              "web3",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -282,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cataloging Open Source projects by various organizations",
+            "homepage": "https://osdc.code-maven.com/open-source-by-organizations/",
             "id": 609771822,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-01T10:27:39Z",
+            "open_issues": 19,
             "owner": "OSDC-Code-Maven",
             "repo": "open-source-by-organizations",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -298,12 +543,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository for all things pizza.",
+            "homepage": null,
             "id": 670155399,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-09T09:57:03Z",
+            "open_issues": 12,
             "owner": "OpenSource-Communities",
             "repo": "pizza-verse",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "beginner-friendly",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -314,12 +567,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.",
+            "homepage": "https://omkar-foss.github.io/awesome-animal-care/",
             "id": 1138218431,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-19T14:47:40Z",
+            "open_issues": 1,
             "owner": "omkar-foss",
             "repo": "awesome-animal-care",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "animal-care",
+              "animal-rescue",
+              "animal-welfare",
+              "animal-welfare-organizations",
+              "awesome",
+              "awesome-list",
+              "community-driven",
+              "curated",
+              "curated-list",
+              "noai",
+              "social-impact",
+              "street-animals",
+              "veterinary",
+              "wildlife-rescue"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -330,12 +603,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first Japanese speaking practice for Korean learners; SDG 4 Quality Education OSS with pre-authored dialogue banks and local STT/TTS.",
+            "homepage": "https://duct-tape2.github.io/ai-language-partner/",
             "id": 1293331196,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:48:27Z",
+            "open_issues": 71,
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "accessibility",
+              "beginner-friendly",
+              "contributions-welcome",
+              "education",
+              "edulinkup",
+              "elusoc",
+              "expo",
+              "fastapi",
+              "first-contributions",
+              "first-timers-only",
+              "good-first-issue",
+              "good-first-pr",
+              "help-wanted",
+              "japanese-language",
+              "korean-language",
+              "language-learning",
+              "learn-japanese",
+              "local-first",
+              "react-native",
+              "up-for-grabs"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         }
@@ -352,12 +651,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀✨ Help beginners to contribute to open source projects",
+            "homepage": "https://firstcontributions.github.io",
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-28T20:33:26Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:06:44Z",
+            "open_issues": 150,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55725
+            "stars": 55728,
+            "topics": [
+              "beginner",
+              "beginner-friendly",
+              "contribute",
+              "contribution",
+              "contributions-welcome",
+              "good-first-contribution",
+              "good-first-issue",
+              "good-first-pr",
+              "open-source",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -368,12 +683,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅  Curated list of resources for developers ",
+            "homepage": null,
             "id": 149113514,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-17T14:00:26Z",
+            "open_issues": 44,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22212
+            "stars": 22212,
+            "topics": [
+              "android",
+              "awesome",
+              "awesome-list",
+              "conferences",
+              "hackathon",
+              "react",
+              "students",
+              "udacity"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -384,12 +713,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game for learning CSS flexbox 🐸",
+            "homepage": "https://flexboxfroggy.com",
             "id": 46774900,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-04T19:19:53Z",
+            "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7379
+            "stars": 7378,
+            "topics": [
+              "css",
+              "flexbox",
+              "flexbox-froggy",
+              "game"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -400,12 +739,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👶 Technical concepts explained in layman terms! git.io/eli5",
+            "homepage": "https://swapagarwal.github.io/awesome-eli5/",
             "id": 133849928,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-26T20:15:21Z",
+            "open_issues": 47,
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 455
+            "stars": 455,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "eli5"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -416,12 +764,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: A curated list of content worth sharing to help you get inspired! :zap:",
+            "homepage": "https://swapagarwal.github.io/awesome-inspiration/",
             "id": 95909812,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-02T19:30:52Z",
+            "open_issues": 38,
             "owner": "swapagarwal",
             "repo": "awesome-inspiration",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-list-awesome-list",
+              "awesome-lists",
+              "drive",
+              "inspiration",
+              "inspiration-board",
+              "inspirational-quotes",
+              "motivation",
+              "motivational-messages",
+              "motivational-quotes",
+              "motivational-wallpapers"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -432,12 +798,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
+            "homepage": "https://aatmaj-zephyr.github.io/A-collection-of-useful-repositories/",
             "id": 468614243,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-01-15T09:23:43Z",
+            "open_issues": 3,
             "owner": "Aatmaj-Zephyr",
             "repo": "A-collection-of-useful-repositories",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "beginner",
+              "good-first-contribution",
+              "good-first-example",
+              "good-first-pr",
+              "hacktoberfest",
+              "non-code",
+              "repositories",
+              "resources",
+              "resources-repo",
+              "useful-reading-list",
+              "useful-repo"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -448,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide to using GitHub for people who don't code and don't want to code.",
+            "homepage": null,
             "id": 43909123,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-08-12T23:25:47Z",
+            "open_issues": 10,
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -464,12 +855,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source knowledge base covering topics about developer experience.",
+            "homepage": "https://developerexperience.io",
             "id": 172480548,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-03T06:51:33Z",
+            "open_issues": 61,
             "owner": "DXHeroes",
             "repo": "knowledge-base-content",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "developer-experience",
+              "developerexperience",
+              "development",
+              "dx",
+              "hacktoberfest",
+              "knowledge",
+              "knowledgebase",
+              "practices",
+              "productivity",
+              "techwriting"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -480,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic github commands to get started.",
+            "homepage": null,
             "id": 539364064,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-09T10:43:18Z",
+            "open_issues": 0,
             "owner": "LiviaGitHub",
             "repo": "basic-github-commands",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         }
@@ -502,12 +914,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indexing conferences, videos, podcasts, people",
+            "homepage": "https://codeandtalk.com",
             "id": 71823631,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-04T09:52:30Z",
+            "open_issues": 55,
             "owner": "szabgab",
             "repo": "codeandtalk.com",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "conference",
+              "conferences",
+              "flask",
+              "mentors",
+              "podcast",
+              "podcasts",
+              "python",
+              "python3",
+              "speaker",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         },
@@ -518,12 +946,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Silly little (now-defunct) web game",
+            "homepage": "https://liar-ga.me",
             "id": 328535836,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-26T22:25:55Z",
+            "open_issues": 13,
             "owner": "amphinomid",
             "repo": "liar",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "game",
+              "multiplayer-game",
+              "open-source",
+              "web-game"
+            ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
         }
@@ -532,15 +970,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:46:48.098Z",
+    "last_updated": "2026-08-29T04:29:46.464Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": null,
       "id": 120436826,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-05T05:45:18Z",
+      "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1944
+      "stars": 1944,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "readme"
+      ]
     },
     "original_repository_sha": "3fa8acb7d407493362afa918cc5c292e8ee764df",
     "enhanced_repository": "enhansome/enhansome-for-non-programmers",
