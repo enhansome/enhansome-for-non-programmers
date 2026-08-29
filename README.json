@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:24:11Z",
-            "open_issues": 1806,
+            "last_commit": "2026-08-29T12:05:35Z",
+            "open_issues": 1807,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6781,
+            "stars": 6784,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5640,
+            "stars": 5641,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1558,
+            "stars": 1560,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T02:06:44Z",
-            "open_issues": 150,
+            "last_commit": "2026-08-29T14:15:18Z",
+            "open_issues": 152,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55728,
+            "stars": 55732,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 44,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22212,
+            "stars": 22214,
             "topics": [
               "android",
               "awesome",
@@ -722,7 +722,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7378,
+            "stars": 7379,
             "topics": [
               "css",
               "flexbox",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:46.464Z",
+    "last_updated": "2026-08-29T14:16:33.023Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
