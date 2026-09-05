@@ -19,7 +19,7 @@
             "open_issues": 2145,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14962,
+            "stars": 14972,
             "topics": [
               "grammar",
               "natural-language",
@@ -44,10 +44,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-03T22:33:39Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11500,
+            "stars": 11503,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T20:58:41Z",
-            "open_issues": 1795,
+            "last_commit": "2026-09-05T09:36:07Z",
+            "open_issues": 1796,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6792,
+            "stars": 6793,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5645,
+            "stars": 5644,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3619,
+            "stars": 3620,
             "topics": [
               "baking",
               "bread",
@@ -368,7 +368,7 @@
             "open_issues": 0,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-04T13:18:27Z",
-            "open_issues": 188,
+            "last_commit": "2026-09-05T11:58:30Z",
+            "open_issues": 190,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55817,
+            "stars": 55822,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 45,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22232,
+            "stars": 22231,
             "topics": [
               "android",
               "awesome",
@@ -864,7 +864,7 @@
             "open_issues": 61,
             "owner": "DXHeroes",
             "repo": "knowledge-base-content",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "developer-experience",
               "developerexperience",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:20:21.745Z",
+    "last_updated": "2026-09-05T12:30:28.272Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -982,7 +982,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1951,
+      "stars": 1952,
       "topics": [
         "awesome",
         "awesome-list",

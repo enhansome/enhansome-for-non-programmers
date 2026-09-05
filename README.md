@@ -6,25 +6,25 @@ Here comes a list of Open Source projects where you can contribute without any p
 * Translating text
 * Improving documentation
 
-Inspired by [Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners/) ⭐ 88,988 | 🐛 150 | 📅 2026-07-25.
+Inspired by [Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners/) ⭐ 89,012 | 🐛 151 | 📅 2026-07-25.
 
 ## The projects
 
 These are projects and lists of projects you can contribue to.
 
-* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 14,962 | 🐛 2,145 | 🌐 Java | 📅 2026-09-04: [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
-* [Owncast](https://github.com/owncast/owncast) ⭐ 11,500 | 🐛 160 | 🌐 Go | 📅 2026-09-03: A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
-* [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia) ⭐ 6,792 | 🐛 1,795 | 🌐 Python | 📅 2026-09-03: [Oppia](https://www.oppia.org) is an online learning tool that enables anyone to easily create and share interactive activities.
-* [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,645 | 🐛 130 | 📅 2024-06-06: A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
+* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 14,972 | 🐛 2,145 | 🌐 Java | 📅 2026-09-04: [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
+* [Owncast](https://github.com/owncast/owncast) ⭐ 11,503 | 🐛 161 | 🌐 Go | 📅 2026-09-03: A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
+* [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia) ⭐ 6,793 | 🐛 1,796 | 🌐 Python | 📅 2026-09-05: [Oppia](https://www.oppia.org) is an online learning tool that enables anyone to easily create and share interactive activities.
+* [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,644 | 🐛 130 | 📅 2024-06-06: A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) ⭐ 4,391 | 🐛 77 | 🌐 JavaScript | 📅 2024-12-09: 😎👕🧦 A list of swag opportunities for developers.
-* [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,619 | 🐛 23 | 🌐 TeX | 📅 2026-08-24: An opportunity to share your bread / sourdough recipes!
+* [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,620 | 🐛 23 | 🌐 TeX | 📅 2026-08-24: An opportunity to share your bread / sourdough recipes!
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) ⭐ 2,175 | 🐛 607 | 🌐 TeX | 📅 2026-09-04: A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
 * [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,565 | 🐛 0 | 📅 2025-02-05: A list of fantasy books and TV-series that anyone can contribute to.
 * [DevJoke](https://github.com/shrutikapoor08/devjoke) ⭐ 1,054 | 🐛 163 | 🌐 Python | 📅 2024-08-07: #DevJoke. Submit a PR if you know a good dev joke.
 * [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/CONTRIBUTING.md) ⭐ 724 | 🐛 208 | 🌐 HTML | 📅 2026-08-26: [CNCF Glossary](https://glossary.cncf.io) explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.
 * [LaTeX Gboard Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/5) ⭐ 526 | 🐛 7 | 📅 2025-06-03: ⌨ Add shortcuts to a Gboard dictionary to allow Unicode to be typed with simple shortcuts on Android ⚡.
 * [PetMe](https://github.com/akshitagupta15june/PetMe) ⭐ 515 | 🐛 777 | 🌐 HTML | 📅 2025-05-05: A platform for finding homes for animals in need, always open to contributions.
-* [List of all the awesome lists](https://github.com/szabgab/awesome-lists) ⭐ 455 | 🐛 0 | 🌐 Perl | 📅 2026-07-29 - A collection of URLs. Excellent way to send your first pull-request.
+* [List of all the awesome lists](https://github.com/szabgab/awesome-lists) ⭐ 456 | 🐛 0 | 🌐 Perl | 📅 2026-07-29 - A collection of URLs. Excellent way to send your first pull-request.
 * [Open Drinks](https://github.com/alfg/opendrinks) ⭐ 409 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-20: Submit drink recipes.
 * [Data Science Notes](https://github.com/wyattowalsh/data-science-notes) ⭐ 126 | 🐛 100 | 🌐 JavaScript | 📅 2023-10-03: Share notes across topics in data science such as mathematics, visualization, and modeling!
 * [CheatSheets](https://github.com/Jahenr/CheatSheets) ⭐ 122 | 🐛 3 | 📅 2025-10-12: Cheat sheet documentation project that allows contributors to add and reference most common commands for systems we know and love in a single place.
@@ -41,14 +41,14 @@ These are projects and lists of projects you can contribue to.
 
 These are resources that will help you contribute to projects (and can be contributed to themselves!)
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions) ⭐ 55,817 | 🐛 188 | 📅 2026-09-04: Quick guide on forks, pull requests and contributions.
-* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,232 | 🐛 45 | 📅 2026-06-17: This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
+* [First Contributions](https://github.com/firstcontributions/first-contributions) ⭐ 55,822 | 🐛 190 | 📅 2026-09-05: Quick guide on forks, pull requests and contributions.
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,231 | 🐛 45 | 📅 2026-06-17: This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) ⭐ 7,383 | 🐛 48 | 🌐 JavaScript | 📅 2026-01-04: Learn CSS Flexbox while playing!
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5) ⭐ 457 | 🐛 47 | 📅 2023-10-26: 👶 Tech explained like you're five!
 * [awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration) ⭐ 300 | 🐛 38 | 📅 2024-07-02: 🔥 A curated list of content worth sharing to help you get inspired! ⚡️.
 * [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) ⭐ 300 | 🐛 3 | 📅 2026-01-15: A collection of useful repositories which provide learning resources for developers.
 * [GitHub for Non-Programmers](https://github.com/tvanantwerp/github-for-non-programmers) ⭐ 203 | 🐛 10 | 🌐 CSS | 📅 2024-08-12: Guide on using GitHub for workflows other than programming.
-* [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) ⭐ 151 | 🐛 61 | 🌐 TypeScript | 📅 2025-11-03: Open source Knowledge Base filled with articles about Developer Experience and related topics like software creation process and team management.
+* [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) ⭐ 152 | 🐛 61 | 🌐 TypeScript | 📅 2025-11-03: Open source Knowledge Base filled with articles about Developer Experience and related topics like software creation process and team management.
 * [Basic Github commands](https://github.com/LiviaGitHub/basic-github-commands) ⭐ 23 | 🐛 0 | 📅 2022-11-09: This repository serves as a comprehensive guide to the fundamental commands of Git. Whether you are a beginner or looking to refresh your knowledge, this repository provides clear explanations and practical examples of essential Git commands. Contributors can enhance this project by adding new chapters or expanding ongoing ones, working on translation efforts to make the content accessible to a broader audience, providing feedback and suggestions for better documentation.
 * [Hello World](https://guides.github.com/activities/hello-world/): A short tutorial on how to start contributing with GitHub.
 * [Learn Git branching](https://pcottle.github.io/learnGitBranching): Play the game and learn Git branching.
@@ -72,4 +72,4 @@ To the extent possible under law, the author has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
