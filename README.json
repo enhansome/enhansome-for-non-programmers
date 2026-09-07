@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-06T09:48:11Z",
+            "last_commit": "2026-09-07T12:50:58Z",
             "open_issues": 2145,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14979,
+            "stars": 14989,
             "topics": [
               "grammar",
               "natural-language",
@@ -44,10 +44,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-05T17:14:03Z",
-            "open_issues": 161,
+            "open_issues": 160,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11507,
+            "stars": 11511,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T07:36:09Z",
-            "open_issues": 1797,
+            "last_commit": "2026-09-07T12:54:06Z",
+            "open_issues": 1801,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6793,
+            "stars": 6795,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5644,
+            "stars": 5645,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1566,
+            "stars": 1567,
             "topics": [
               "awesome",
               "awesome-list",
@@ -364,7 +364,7 @@
             "id": 660112505,
             "language": "Perl",
             "license": "CC0-1.0",
-            "last_commit": "2026-07-29T04:15:12Z",
+            "last_commit": "2026-09-07T02:47:34Z",
             "open_issues": 0,
             "owner": "szabgab",
             "repo": "awesome-lists",
@@ -608,8 +608,8 @@
             "id": 1293331196,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T13:31:32Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-07T14:26:16Z",
+            "open_issues": 75,
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
             "stars": 6,
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-06T12:33:04Z",
-            "open_issues": 192,
+            "last_commit": "2026-09-07T14:55:27Z",
+            "open_issues": 191,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55838,
+            "stars": 55852,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 45,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22234,
+            "stars": 22238,
             "topics": [
               "android",
               "awesome",
@@ -896,7 +896,7 @@
             "open_issues": 0,
             "owner": "LiviaGitHub",
             "repo": "basic-github-commands",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:44:41.583Z",
+    "last_updated": "2026-09-07T14:55:52.775Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
