@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-07T16:04:03Z",
-            "open_issues": 2145,
+            "last_commit": "2026-09-09T11:23:34Z",
+            "open_issues": 2147,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 14992,
+            "stars": 14996,
             "topics": [
               "grammar",
               "natural-language",
@@ -43,11 +43,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T01:53:49Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-09T02:13:33Z",
+            "open_issues": 168,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11515,
+            "stars": 11514,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T11:46:44Z",
-            "open_issues": 1801,
+            "last_commit": "2026-09-09T10:53:36Z",
+            "open_issues": 1809,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6796,
+            "stars": 6799,
             "topics": [
               "angular",
               "appengine",
@@ -147,7 +147,7 @@
             "open_issues": 77,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4391,
+            "stars": 4392,
             "topics": [
               "awesome",
               "awesome-list",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T13:01:07Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-09T13:29:14Z",
+            "open_issues": 215,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55859,
+            "stars": 55866,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 45,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22241,
+            "stars": 22245,
             "topics": [
               "android",
               "awesome",
@@ -722,7 +722,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7384,
+            "stars": 7383,
             "topics": [
               "css",
               "flexbox",
@@ -759,6 +759,42 @@
         },
         {
           "node_type": "item",
+          "title": "Useful repositories",
+          "description": "A collection of useful repositories which provide learning resources for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
+            "homepage": "https://aatmaj-zephyr.github.io/A-collection-of-useful-repositories/",
+            "id": 468614243,
+            "language": null,
+            "license": "Unlicense",
+            "last_commit": "2026-01-15T09:23:43Z",
+            "open_issues": 3,
+            "owner": "Aatmaj-Zephyr",
+            "repo": "A-collection-of-useful-repositories",
+            "stars": 301,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "beginner",
+              "good-first-contribution",
+              "good-first-example",
+              "good-first-pr",
+              "hacktoberfest",
+              "non-code",
+              "repositories",
+              "resources",
+              "resources-repo",
+              "useful-reading-list",
+              "useful-repo"
+            ]
+          },
+          "first_seen": "2026-08-28T20:46:48.098Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-inspiration",
           "description": "🔥 A curated list of content worth sharing to help you get inspired! ⚡️.",
           "children": [],
@@ -787,42 +823,6 @@
               "motivational-messages",
               "motivational-quotes",
               "motivational-wallpapers"
-            ]
-          },
-          "first_seen": "2026-08-28T20:46:48.098Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Useful repositories",
-          "description": "A collection of useful repositories which provide learning resources for developers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
-            "homepage": "https://aatmaj-zephyr.github.io/A-collection-of-useful-repositories/",
-            "id": 468614243,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2026-01-15T09:23:43Z",
-            "open_issues": 3,
-            "owner": "Aatmaj-Zephyr",
-            "repo": "A-collection-of-useful-repositories",
-            "stars": 300,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "beginner",
-              "good-first-contribution",
-              "good-first-example",
-              "good-first-pr",
-              "hacktoberfest",
-              "non-code",
-              "repositories",
-              "resources",
-              "resources-repo",
-              "useful-reading-list",
-              "useful-repo"
             ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:26:06.571Z",
+    "last_updated": "2026-09-09T13:36:40.978Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -982,7 +982,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1956,
+      "stars": 1957,
       "topics": [
         "awesome",
         "awesome-list",
