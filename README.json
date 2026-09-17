@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-15T18:41:26Z",
-            "open_issues": 2151,
+            "open_issues": 2148,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15043,
+            "stars": 15040,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 166,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11530,
+            "stars": 11534,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T13:16:52Z",
-            "open_issues": 1823,
+            "last_commit": "2026-09-17T13:04:30Z",
+            "open_issues": 1819,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6810,
+            "stars": 6809,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5646,
+            "stars": 5647,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -147,7 +147,7 @@
             "open_issues": 79,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4394,
+            "stars": 4395,
             "topics": [
               "awesome",
               "awesome-list",
@@ -166,11 +166,11 @@
           "repo_info": {
             "archived": false,
             "description": "Open source book dedicated to helping you to make the best possible sourdough bread at home.",
-            "homepage": "https://breadco.de/book",
+            "homepage": "https://www.the-sourdough-framework.com/",
             "id": 450634273,
             "language": "TeX",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-13T16:29:46Z",
+            "last_commit": "2026-09-17T12:34:29Z",
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
@@ -368,7 +368,7 @@
             "open_issues": 1,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 465,
+            "stars": 467,
             "topics": [
               "awesome",
               "awesome-list",
@@ -394,7 +394,7 @@
             "open_issues": 36,
             "owner": "alfg",
             "repo": "opendrinks",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "cocktails",
               "drinks",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-16T13:15:43Z",
-            "open_issues": 234,
+            "last_commit": "2026-09-17T13:10:42Z",
+            "open_issues": 237,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55955,
+            "stars": 55966,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 49,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22260,
+            "stars": 22266,
             "topics": [
               "android",
               "awesome",
@@ -748,7 +748,7 @@
             "open_issues": 47,
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 457,
+            "stars": 459,
             "topics": [
               "awesome",
               "awesome-list",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:07:14.795Z",
+    "last_updated": "2026-09-17T14:12:39.968Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
