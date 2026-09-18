@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-15T18:41:26Z",
-            "open_issues": 2148,
+            "last_commit": "2026-09-18T13:29:16Z",
+            "open_issues": 2150,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15040,
+            "stars": 15048,
             "topics": [
               "grammar",
               "natural-language",
@@ -43,11 +43,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T08:28:02Z",
+            "last_commit": "2026-09-18T03:03:34Z",
             "open_issues": 166,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11534,
+            "stars": 11537,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T13:04:30Z",
-            "open_issues": 1819,
+            "last_commit": "2026-09-18T09:04:14Z",
+            "open_issues": 1818,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6809,
+            "stars": 6810,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5647,
+            "stars": 5648,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3621,
+            "stars": 3622,
             "topics": [
               "baking",
               "bread",
@@ -200,7 +200,7 @@
             "open_issues": 608,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2177,
+            "stars": 2178,
             "topics": [
               "community",
               "data-science",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1572,
+            "stars": 1575,
             "topics": [
               "awesome",
               "awesome-list",
@@ -368,7 +368,7 @@
             "open_issues": 1,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 467,
+            "stars": 470,
             "topics": [
               "awesome",
               "awesome-list",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "Ashish-khanagwal",
             "repo": "Open-source-practice-and-resources",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "android-development",
               "devops",
@@ -608,7 +608,7 @@
             "id": 1293331196,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:58:00Z",
+            "last_commit": "2026-09-17T14:15:36Z",
             "open_issues": 78,
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-17T13:10:42Z",
-            "open_issues": 237,
+            "last_commit": "2026-09-18T13:18:33Z",
+            "open_issues": 239,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55966,
+            "stars": 55977,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 49,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22266,
+            "stars": 22269,
             "topics": [
               "android",
               "awesome",
@@ -722,7 +722,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7383,
+            "stars": 7382,
             "topics": [
               "css",
               "flexbox",
@@ -773,7 +773,7 @@
             "open_issues": 3,
             "owner": "Aatmaj-Zephyr",
             "repo": "A-collection-of-useful-repositories",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -919,7 +919,7 @@
             "id": 71823631,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2024-06-04T09:52:30Z",
+            "last_commit": "2026-09-18T12:30:45Z",
             "open_issues": 55,
             "owner": "szabgab",
             "repo": "codeandtalk.com",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:12:39.968Z",
+    "last_updated": "2026-09-18T13:30:33.931Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
