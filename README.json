@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-20T10:19:34Z",
+            "last_commit": "2026-09-20T19:48:06Z",
             "open_issues": 2148,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15056,
+            "stars": 15061,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 170,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11546,
+            "stars": 11547,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:14:25Z",
-            "open_issues": 1809,
+            "last_commit": "2026-09-21T15:12:36Z",
+            "open_issues": 1808,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6811,
+            "stars": 6812,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5648,
+            "stars": 5649,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -147,7 +147,7 @@
             "open_issues": 79,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4395,
+            "stars": 4394,
             "topics": [
               "awesome",
               "awesome-list",
@@ -275,8 +275,8 @@
             "id": 329970318,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T12:55:59Z",
-            "open_issues": 205,
+            "last_commit": "2026-09-21T15:22:32Z",
+            "open_issues": 206,
             "owner": "cncf",
             "repo": "glossary",
             "stars": 724,
@@ -303,7 +303,7 @@
             "open_issues": 7,
             "owner": "DenverCoder1",
             "repo": "latex-gboard-dictionary",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "calculus",
               "dictionary",
@@ -368,7 +368,7 @@
             "open_issues": 2,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 471,
+            "stars": 475,
             "topics": [
               "awesome",
               "awesome-list",
@@ -573,7 +573,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-19T14:47:40Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "omkar-foss",
             "repo": "awesome-animal-care",
             "stars": 19,
@@ -615,25 +615,25 @@
             "stars": 6,
             "topics": [
               "accessibility",
-              "beginner-friendly",
               "contributions-welcome",
+              "developer-marketing",
               "education",
               "expo",
               "fastapi",
               "first-contributions",
-              "first-timers-only",
+              "freelance",
               "good-first-issue",
-              "good-first-pr",
               "help-wanted",
               "japanese-language",
               "korean-language",
+              "landing-page",
               "language-learning",
               "learn-japanese",
               "local-first",
               "product-page",
+              "productized-service",
               "react-native",
-              "repo-launch",
-              "up-for-grabs"
+              "repo-launch"
             ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-20T11:50:31Z",
-            "open_issues": 246,
+            "last_commit": "2026-09-21T15:22:12Z",
+            "open_issues": 254,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56002,
+            "stars": 56013,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 49,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22267,
+            "stars": 22272,
             "topics": [
               "android",
               "awesome",
@@ -722,7 +722,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7383,
+            "stars": 7380,
             "topics": [
               "css",
               "flexbox",
@@ -748,7 +748,7 @@
             "open_issues": 47,
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 459,
+            "stars": 457,
             "topics": [
               "awesome",
               "awesome-list",
@@ -896,7 +896,7 @@
             "open_issues": 0,
             "owner": "LiviaGitHub",
             "repo": "basic-github-commands",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -923,7 +923,7 @@
             "open_issues": 55,
             "owner": "szabgab",
             "repo": "codeandtalk.com",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "conference",
               "conferences",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:31:04.589Z",
+    "last_updated": "2026-09-21T15:47:03.127Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -982,7 +982,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1965,
+      "stars": 1971,
       "topics": [
         "awesome",
         "awesome-list",
