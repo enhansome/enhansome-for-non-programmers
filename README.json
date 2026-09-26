@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-25T09:23:48Z",
+            "last_commit": "2026-09-26T03:53:44Z",
             "open_issues": 2149,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15087,
+            "stars": 15091,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 170,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11557,
+            "stars": 11562,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T12:13:55Z",
-            "open_issues": 1814,
+            "last_commit": "2026-09-26T12:36:52Z",
+            "open_issues": 1815,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6821,
+            "stars": 6820,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5649,
+            "stars": 5650,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3624,
+            "stars": 3625,
             "topics": [
               "baking",
               "bread",
@@ -276,7 +276,7 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T15:25:56Z",
-            "open_issues": 207,
+            "open_issues": 216,
             "owner": "cncf",
             "repo": "glossary",
             "stars": 724,
@@ -303,7 +303,7 @@
             "open_issues": 7,
             "owner": "DenverCoder1",
             "repo": "latex-gboard-dictionary",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "calculus",
               "dictionary",
@@ -608,7 +608,7 @@
             "id": 1293331196,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T04:47:34Z",
+            "last_commit": "2026-09-25T23:18:13Z",
             "open_issues": 81,
             "owner": "duct-tape2",
             "repo": "ai-language-partner",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-25T14:30:13Z",
-            "open_issues": 295,
+            "last_commit": "2026-09-26T13:33:43Z",
+            "open_issues": 301,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56078,
+            "stars": 56101,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 52,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22284,
+            "stars": 22285,
             "topics": [
               "android",
               "awesome",
@@ -722,7 +722,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "css",
               "flexbox",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:30:39.665Z",
+    "last_updated": "2026-09-26T13:41:13.911Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
