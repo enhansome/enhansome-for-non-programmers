@@ -47,7 +47,7 @@
             "open_issues": 169,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11569,
+            "stars": 11572,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -82,10 +82,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T17:11:43Z",
-            "open_issues": 1812,
+            "open_issues": 1814,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6838,
+            "stars": 6840,
             "topics": [
               "angular",
               "appengine",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-03T03:31:24Z",
-            "open_issues": 336,
+            "last_commit": "2026-10-03T14:06:14Z",
+            "open_issues": 339,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56184,
+            "stars": 56192,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 55,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22312,
+            "stars": 22313,
             "topics": [
               "android",
               "awesome",
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:08.323Z",
+    "last_updated": "2026-10-03T14:12:23.970Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -982,7 +982,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1977,
+      "stars": 1978,
       "topics": [
         "awesome",
         "awesome-list",
