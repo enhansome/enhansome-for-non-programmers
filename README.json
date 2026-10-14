@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-13T07:19:21Z",
+            "last_commit": "2026-10-14T05:06:42Z",
             "open_issues": 2153,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15127,
+            "stars": 15130,
             "topics": [
               "grammar",
               "natural-language",
@@ -43,11 +43,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:19:27Z",
-            "open_issues": 165,
+            "last_commit": "2026-10-13T17:30:24Z",
+            "open_issues": 164,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11590,
+            "stars": 11591,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T01:00:38Z",
-            "open_issues": 1813,
+            "last_commit": "2026-10-14T10:42:59Z",
+            "open_issues": 1818,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6852,
+            "stars": 6855,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5652,
+            "stars": 5654,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -147,7 +147,7 @@
             "open_issues": 80,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4400,
+            "stars": 4401,
             "topics": [
               "awesome",
               "awesome-list",
@@ -196,11 +196,11 @@
             "id": 155712190,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T16:41:41Z",
-            "open_issues": 610,
+            "last_commit": "2026-10-14T09:06:39Z",
+            "open_issues": 607,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2184,
+            "stars": 2186,
             "topics": [
               "community",
               "data-science",
@@ -279,7 +279,7 @@
             "open_issues": 252,
             "owner": "cncf",
             "repo": "glossary",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "cloud-native",
               "cncf"
@@ -394,7 +394,7 @@
             "open_issues": 36,
             "owner": "alfg",
             "repo": "opendrinks",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "cocktails",
               "drinks",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-13T16:42:59Z",
-            "open_issues": 405,
+            "last_commit": "2026-10-14T14:15:43Z",
+            "open_issues": 418,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56340,
+            "stars": 56352,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -689,10 +689,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-06-17T14:00:26Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22378,
+            "stars": 22382,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:49:06.264Z",
+    "last_updated": "2026-10-14T14:25:24.029Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 1984,
+      "stars": 1985,
       "topics": [
         "awesome",
         "awesome-list",
