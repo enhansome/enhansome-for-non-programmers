@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-25T04:05:35Z",
-            "open_issues": 2154,
+            "open_issues": 2155,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15190,
+            "stars": 15197,
             "topics": [
               "grammar",
               "natural-language",
@@ -43,11 +43,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T13:08:17Z",
+            "last_commit": "2026-10-25T23:08:22Z",
             "open_issues": 171,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11625,
+            "stars": 11624,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T07:41:32Z",
-            "open_issues": 1879,
+            "last_commit": "2026-10-26T15:40:17Z",
+            "open_issues": 1889,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6929,
+            "stars": 6943,
             "topics": [
               "angular",
               "appengine",
@@ -147,7 +147,7 @@
             "open_issues": 80,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4405,
+            "stars": 4406,
             "topics": [
               "awesome",
               "awesome-list",
@@ -200,7 +200,7 @@
             "open_issues": 616,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2194,
+            "stars": 2195,
             "topics": [
               "community",
               "data-science",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1600,
+            "stars": 1602,
             "topics": [
               "awesome",
               "awesome-list",
@@ -276,10 +276,10 @@
             "language": "Go Template",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T23:28:27Z",
-            "open_issues": 214,
+            "open_issues": 224,
             "owner": "cncf",
             "repo": "glossary",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "cloud-native",
               "cncf"
@@ -368,7 +368,7 @@
             "open_issues": 5,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "awesome",
               "awesome-list",
@@ -531,7 +531,7 @@
             "open_issues": 19,
             "owner": "OSDC-Code-Maven",
             "repo": "open-source-by-organizations",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -572,11 +572,11 @@
             "id": 1138218431,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-19T14:47:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-26T07:45:19Z",
+            "open_issues": 0,
             "owner": "omkar-foss",
             "repo": "awesome-animal-care",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "animal-care",
               "animal-rescue",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-25T13:06:57Z",
-            "open_issues": 544,
+            "last_commit": "2026-10-26T15:43:22Z",
+            "open_issues": 566,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56520,
+            "stars": 56564,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -689,10 +689,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-21T16:19:25Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22465,
+            "stars": 22470,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -820,7 +820,7 @@
             "open_issues": 38,
             "owner": "swapagarwal",
             "repo": "awesome-inspiration",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "awesome",
               "awesome-list",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:37:53.998Z",
+    "last_updated": "2026-10-26T15:59:25.736Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 2000,
+      "stars": 2001,
       "topics": [
         "awesome",
         "awesome-list",
