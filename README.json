@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-30T13:49:35Z",
-            "open_issues": 2155,
+            "last_commit": "2026-10-31T08:55:03Z",
+            "open_issues": 2157,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15218,
+            "stars": 15223,
             "topics": [
               "grammar",
               "natural-language",
@@ -44,10 +44,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-26T19:03:37Z",
-            "open_issues": 172,
+            "open_issues": 171,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11633,
+            "stars": 11638,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T15:13:53Z",
-            "open_issues": 1919,
+            "last_commit": "2026-10-31T15:09:42Z",
+            "open_issues": 1921,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6951,
+            "stars": 6952,
             "topics": [
               "angular",
               "appengine",
@@ -147,7 +147,7 @@
             "open_issues": 80,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4402,
+            "stars": 4403,
             "topics": [
               "awesome",
               "awesome-list",
@@ -200,7 +200,7 @@
             "open_issues": 617,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2198,
+            "stars": 2200,
             "topics": [
               "community",
               "data-science",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1608,
+            "stars": 1609,
             "topics": [
               "awesome",
               "awesome-list",
@@ -275,11 +275,11 @@
             "id": 329970318,
             "language": "Go Template",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T00:36:38Z",
+            "last_commit": "2026-10-31T15:01:38Z",
             "open_issues": 224,
             "owner": "cncf",
             "repo": "glossary",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "cloud-native",
               "cncf"
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-30T14:42:53Z",
-            "open_issues": 589,
+            "last_commit": "2026-10-31T15:06:48Z",
+            "open_issues": 594,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56624,
+            "stars": 56640,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 76,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22495,
+            "stars": 22500,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -733,7 +733,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7385,
+            "stars": 7386,
             "topics": [
               "css",
               "flexbox",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:44:00.560Z",
+    "last_updated": "2026-10-31T15:11:54.278Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 2008,
+      "stars": 2009,
       "topics": [
         "awesome",
         "awesome-list",
