@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-04T09:08:18Z",
+            "last_commit": "2026-11-05T04:45:10Z",
             "open_issues": 2160,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15234,
+            "stars": 15233,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 172,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11645,
+            "stars": 11647,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T10:12:23Z",
-            "open_issues": 1917,
+            "last_commit": "2026-11-05T17:06:03Z",
+            "open_issues": 1930,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6973,
+            "stars": 6976,
             "topics": [
               "angular",
               "appengine",
@@ -171,7 +171,7 @@
             "language": "TeX",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-24T12:21:09Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
             "stars": 3641,
@@ -197,7 +197,7 @@
             "language": "TeX",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T20:53:04Z",
-            "open_issues": 618,
+            "open_issues": 619,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
             "stars": 2201,
@@ -276,7 +276,7 @@
             "language": "Go Template",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T16:22:49Z",
-            "open_issues": 227,
+            "open_issues": 228,
             "owner": "cncf",
             "repo": "glossary",
             "stars": 728,
@@ -324,6 +324,32 @@
         },
         {
           "node_type": "item",
+          "title": "List of all the awesome lists",
+          "description": "A collection of URLs. Excellent way to send your first pull-request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The awesome list of all the awesome lists",
+            "homepage": null,
+            "id": 660112505,
+            "language": "Perl",
+            "license": "CC0-1.0",
+            "last_commit": "2026-10-27T05:19:25Z",
+            "open_issues": 1,
+            "owner": "szabgab",
+            "repo": "awesome-lists",
+            "stars": 517,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "readme"
+            ]
+          },
+          "first_seen": "2026-08-28T20:46:48.098Z"
+        },
+        {
+          "node_type": "item",
           "title": "PetMe",
           "description": "A platform for finding homes for animals in need, always open to contributions.",
           "children": [],
@@ -348,32 +374,6 @@
               "hacktoberfest",
               "open-source",
               "student-vscode"
-            ]
-          },
-          "first_seen": "2026-08-28T20:46:48.098Z"
-        },
-        {
-          "node_type": "item",
-          "title": "List of all the awesome lists",
-          "description": "A collection of URLs. Excellent way to send your first pull-request.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The awesome list of all the awesome lists",
-            "homepage": null,
-            "id": 660112505,
-            "language": "Perl",
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-27T05:19:25Z",
-            "open_issues": 1,
-            "owner": "szabgab",
-            "repo": "awesome-lists",
-            "stars": 515,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "readme"
             ]
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -464,7 +464,7 @@
             "open_issues": 3,
             "owner": "Jahenr",
             "repo": "CheatSheets",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "begginer-friendly",
               "beginner-project",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-04T15:59:38Z",
-            "open_issues": 634,
+            "last_commit": "2026-11-05T17:11:04Z",
+            "open_issues": 642,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56692,
+            "stars": 56713,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 78,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22523,
+            "stars": 22531,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -733,7 +733,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7386,
+            "stars": 7388,
             "topics": [
               "css",
               "flexbox",
@@ -759,7 +759,7 @@
             "open_issues": 47,
             "owner": "swapagarwal",
             "repo": "awesome-eli5",
-            "stars": 458,
+            "stars": 459,
             "topics": [
               "awesome",
               "awesome-list",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:57:30.859Z",
+    "last_updated": "2026-11-05T17:13:16.563Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
