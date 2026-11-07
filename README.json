@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-06T13:54:15Z",
+            "last_commit": "2026-11-06T22:45:32Z",
             "open_issues": 2163,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15232,
+            "stars": 15234,
             "topics": [
               "grammar",
               "natural-language",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T02:08:47Z",
-            "open_issues": 1930,
+            "last_commit": "2026-11-07T13:30:29Z",
+            "open_issues": 1937,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6977,
+            "stars": 6979,
             "topics": [
               "angular",
               "appengine",
@@ -197,7 +197,7 @@
             "language": "TeX",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T20:53:04Z",
-            "open_issues": 619,
+            "open_issues": 620,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
             "stars": 2201,
@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 517,
+            "stars": 518,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-06T16:35:27Z",
-            "open_issues": 652,
+            "last_commit": "2026-11-07T15:21:20Z",
+            "open_issues": 657,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56721,
+            "stars": 56730,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -689,10 +689,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-21T16:19:25Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22537,
+            "stars": 22538,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -733,7 +733,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7388,
+            "stars": 7389,
             "topics": [
               "css",
               "flexbox",
@@ -854,7 +854,7 @@
             "open_issues": 11,
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 207,
+            "stars": 208,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:39:18.612Z",
+    "last_updated": "2026-11-07T15:33:05.128Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 2016,
+      "stars": 2017,
       "topics": [
         "awesome",
         "awesome-list",
