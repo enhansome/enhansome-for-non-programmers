@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-13T09:33:49Z",
+            "last_commit": "2026-11-13T19:15:06Z",
             "open_issues": 2165,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15256,
+            "stars": 15259,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 175,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11653,
+            "stars": 11659,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T11:00:07Z",
-            "open_issues": 1929,
+            "last_commit": "2026-11-13T19:25:03Z",
+            "open_issues": 1934,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6988,
+            "stars": 6987,
             "topics": [
               "angular",
               "appengine",
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3641,
+            "stars": 3642,
             "topics": [
               "baking",
               "bread",
@@ -196,7 +196,7 @@
             "id": 155712190,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T14:59:26Z",
+            "last_commit": "2026-11-14T09:57:48Z",
             "open_issues": 621,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "awesome",
               "awesome-list",
@@ -279,7 +279,7 @@
             "open_issues": 228,
             "owner": "cncf",
             "repo": "glossary",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "cloud-native",
               "cncf"
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-13T16:41:48Z",
-            "open_issues": 712,
+            "last_commit": "2026-11-14T15:11:20Z",
+            "open_issues": 714,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56839,
+            "stars": 56863,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 84,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22568,
+            "stars": 22565,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -733,7 +733,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7390,
+            "stars": 7389,
             "topics": [
               "css",
               "flexbox",
@@ -854,7 +854,7 @@
             "open_issues": 11,
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 209,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:02:05.426Z",
+    "last_updated": "2026-11-14T15:40:09.083Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
