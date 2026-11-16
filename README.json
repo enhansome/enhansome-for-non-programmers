@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-15T12:26:01Z",
+            "last_commit": "2026-11-16T10:16:39Z",
             "open_issues": 2165,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15260,
+            "stars": 15265,
             "topics": [
               "grammar",
               "natural-language",
@@ -43,11 +43,11 @@
             "id": 266445736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-15T14:05:54Z",
-            "open_issues": 179,
+            "last_commit": "2026-11-16T04:44:31Z",
+            "open_issues": 178,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11665,
+            "stars": 11671,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T15:21:31Z",
-            "open_issues": 1939,
+            "last_commit": "2026-11-16T15:33:17Z",
+            "open_issues": 1946,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6992,
+            "stars": 6995,
             "topics": [
               "angular",
               "appengine",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1615,
+            "stars": 1617,
             "topics": [
               "awesome",
               "awesome-list",
@@ -276,7 +276,7 @@
             "language": "Go Template",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T16:01:31Z",
-            "open_issues": 229,
+            "open_issues": 230,
             "owner": "cncf",
             "repo": "glossary",
             "stars": 733,
@@ -303,7 +303,7 @@
             "open_issues": 7,
             "owner": "DenverCoder1",
             "repo": "latex-gboard-dictionary",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "calculus",
               "dictionary",
@@ -338,7 +338,7 @@
             "open_issues": 2,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 523,
+            "stars": 527,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-15T16:07:55Z",
-            "open_issues": 715,
+            "last_commit": "2026-11-16T19:15:36Z",
+            "open_issues": 730,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56873,
+            "stars": 56892,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -689,10 +689,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-21T16:19:25Z",
-            "open_issues": 85,
+            "open_issues": 87,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22572,
+            "stars": 22581,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -784,7 +784,7 @@
             "open_issues": 3,
             "owner": "Aatmaj-Zephyr",
             "repo": "A-collection-of-useful-repositories",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -854,7 +854,7 @@
             "open_issues": 11,
             "owner": "tvanantwerp",
             "repo": "github-for-non-programmers",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -907,7 +907,7 @@
             "open_issues": 0,
             "owner": "LiviaGitHub",
             "repo": "basic-github-commands",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:10:29.504Z",
+    "last_updated": "2026-11-16T19:26:24.512Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 2024,
+      "stars": 2025,
       "topics": [
         "awesome",
         "awesome-list",
