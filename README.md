@@ -6,24 +6,24 @@ Here comes a list of Open Source projects where you can contribute without any p
 * Translating text
 * Improving documentation
 
-Inspired by [Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners/) ⭐ 91,513 | 🐛 180 | 📅 2026-10-01.
+Inspired by [Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners/) ⭐ 91,550 | 🐛 181 | 📅 2026-10-01.
 
 ## The projects
 
 These are projects and lists of projects you can contribue to.
 
-* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 15,269 | 🐛 2,165 | 🌐 Java | 📅 2026-11-17: [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
-* [Owncast](https://github.com/owncast/owncast) ⭐ 11,672 | 🐛 177 | 🌐 Go | 📅 2026-11-17: A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
-* [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia) ⭐ 6,998 | 🐛 1,947 | 🌐 Python | 📅 2026-11-17: [Oppia](https://www.oppia.org) is an online learning tool that enables anyone to easily create and share interactive activities.
-* [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,666 | 🐛 130 | 📅 2024-06-06: A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
+* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 15,274 | 🐛 2,165 | 🌐 Java | 📅 2026-11-18: [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
+* [Owncast](https://github.com/owncast/owncast) ⭐ 11,678 | 🐛 178 | 🌐 Go | 📅 2026-11-18: A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
+* [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia) ⭐ 6,998 | 🐛 1,945 | 🌐 Python | 📅 2026-11-18: [Oppia](https://www.oppia.org) is an online learning tool that enables anyone to easily create and share interactive activities.
+* [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,667 | 🐛 130 | 📅 2024-06-06: A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) ⭐ 4,406 | 🐛 80 | 🌐 JavaScript | 📅 2024-12-09: 😎👕🧦 A list of swag opportunities for developers.
 * [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,646 | 🐛 23 | 🌐 TeX | 📅 2026-11-11: An opportunity to share your bread / sourdough recipes!
-* [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) ⭐ 2,202 | 🐛 621 | 🌐 TeX | 📅 2026-11-14: A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
-* [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,618 | 🐛 0 | 📅 2026-10-01: A list of fantasy books and TV-series that anyone can contribute to.
+* [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) ⭐ 2,205 | 🐛 621 | 🌐 TeX | 📅 2026-11-14: A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
+* [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,619 | 🐛 0 | 📅 2026-10-01: A list of fantasy books and TV-series that anyone can contribute to.
 * [DevJoke](https://github.com/shrutikapoor08/devjoke) ⭐ 1,054 | 🐛 162 | 🌐 Python | 📅 2024-08-07: #DevJoke. Submit a PR if you know a good dev joke.
 * [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/CONTRIBUTING.md) ⭐ 733 | 🐛 231 | 🌐 Go Template | 📅 2026-11-11: [CNCF Glossary](https://glossary.cncf.io) explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.
 * [LaTeX Gboard Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/5) ⭐ 543 | 🐛 7 | 📅 2025-06-03: ⌨ Add shortcuts to a Gboard dictionary to allow Unicode to be typed with simple shortcuts on Android ⚡.
-* [List of all the awesome lists](https://github.com/szabgab/awesome-lists) ⭐ 530 | 🐛 1 | 🌐 Perl | 📅 2026-11-17 - A collection of URLs. Excellent way to send your first pull-request.
+* [List of all the awesome lists](https://github.com/szabgab/awesome-lists) ⭐ 531 | 🐛 1 | 🌐 Perl | 📅 2026-11-17 - A collection of URLs. Excellent way to send your first pull-request.
 * [PetMe](https://github.com/akshitagupta15june/PetMe) ⭐ 518 | 🐛 776 | 🌐 HTML | 📅 2025-05-05: A platform for finding homes for animals in need, always open to contributions.
 * [Open Drinks](https://github.com/alfg/opendrinks) ⭐ 416 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-20: Submit drink recipes.
 * [Data Science Notes](https://github.com/wyattowalsh/data-science-notes) ⭐ 126 | 🐛 100 | 🌐 JavaScript | 📅 2023-10-03: Share notes across topics in data science such as mathematics, visualization, and modeling!
@@ -41,9 +41,9 @@ These are projects and lists of projects you can contribue to.
 
 These are resources that will help you contribute to projects (and can be contributed to themselves!)
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions) ⭐ 56,913 | 🐛 733 | 📅 2026-11-17: Quick guide on forks, pull requests and contributions.
-* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,585 | 🐛 90 | 📅 2026-10-21: This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
-* [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) ⭐ 7,389 | 🐛 48 | 🌐 JavaScript | 📅 2026-01-04: Learn CSS Flexbox while playing!
+* [First Contributions](https://github.com/firstcontributions/first-contributions) ⭐ 56,930 | 🐛 741 | 📅 2026-11-18: Quick guide on forks, pull requests and contributions.
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,594 | 🐛 90 | 📅 2026-10-21: This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
+* [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) ⭐ 7,388 | 🐛 48 | 🌐 JavaScript | 📅 2026-01-04: Learn CSS Flexbox while playing!
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5) ⭐ 463 | 🐛 47 | 📅 2023-10-26: 👶 Tech explained like you're five!
 * [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) ⭐ 307 | 🐛 3 | 📅 2026-01-15: A collection of useful repositories which provide learning resources for developers.
 * [awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration) ⭐ 302 | 🐛 38 | 📅 2024-07-02: 🔥 A curated list of content worth sharing to help you get inspired! ⚡️.
@@ -72,4 +72,4 @@ To the extent possible under law, the author has waived all copyright and relate
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
