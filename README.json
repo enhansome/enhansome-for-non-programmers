@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-18T11:21:52Z",
+            "last_commit": "2026-11-19T12:33:43Z",
             "open_issues": 2165,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15274,
+            "stars": 15280,
             "topics": [
               "grammar",
               "natural-language",
@@ -44,10 +44,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-18T10:07:13Z",
-            "open_issues": 178,
+            "open_issues": 179,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11678,
+            "stars": 11680,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T17:49:28Z",
-            "open_issues": 1945,
+            "last_commit": "2026-11-19T17:53:32Z",
+            "open_issues": 1939,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6998,
+            "stars": 6999,
             "topics": [
               "angular",
               "appengine",
@@ -126,7 +126,7 @@
             "open_issues": 130,
             "owner": "tastejs",
             "repo": "awesome-app-ideas",
-            "stars": 5667,
+            "stars": 5668,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3646,
+            "stars": 3647,
             "topics": [
               "baking",
               "bread",
@@ -200,7 +200,7 @@
             "open_issues": 621,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2205,
+            "stars": 2206,
             "topics": [
               "community",
               "data-science",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "awesome",
               "awesome-list",
@@ -276,7 +276,7 @@
             "language": "Go Template",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T16:01:31Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "cncf",
             "repo": "glossary",
             "stars": 733,
@@ -303,7 +303,7 @@
             "open_issues": 7,
             "owner": "DenverCoder1",
             "repo": "latex-gboard-dictionary",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "calculus",
               "dictionary",
@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 531,
+            "stars": 533,
             "topics": [
               "awesome",
               "awesome-list",
@@ -531,7 +531,7 @@
             "open_issues": 19,
             "owner": "OSDC-Code-Maven",
             "repo": "open-source-by-organizations",
-            "stars": 71,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T20:46:48.098Z"
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-18T17:33:44Z",
-            "open_issues": 741,
+            "last_commit": "2026-11-19T17:27:01Z",
+            "open_issues": 604,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56930,
+            "stars": 56943,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -689,10 +689,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-21T16:19:25Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22594,
+            "stars": 22601,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:53:39.576Z",
+    "last_updated": "2026-11-19T18:05:27.233Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
