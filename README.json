@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-21T09:29:39Z",
+            "last_commit": "2026-11-22T12:04:37Z",
             "open_issues": 2165,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15286,
+            "stars": 15287,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 180,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11684,
+            "stars": 11686,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T14:54:12Z",
-            "open_issues": 1948,
+            "last_commit": "2026-11-22T16:57:39Z",
+            "open_issues": 1921,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 6998,
+            "stars": 7000,
             "topics": [
               "angular",
               "appengine",
@@ -147,7 +147,7 @@
             "open_issues": 80,
             "owner": "swapagarwal",
             "repo": "swag-for-dev",
-            "stars": 4405,
+            "stars": 4406,
             "topics": [
               "awesome",
               "awesome-list",
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3647,
+            "stars": 3648,
             "topics": [
               "baking",
               "bread",
@@ -200,7 +200,7 @@
             "open_issues": 621,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2206,
+            "stars": 2205,
             "topics": [
               "community",
               "data-science",
@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 538,
+            "stars": 541,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-21T16:25:38Z",
-            "open_issues": 593,
+            "last_commit": "2026-11-22T16:11:59Z",
+            "open_issues": 599,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56962,
+            "stars": 56969,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 91,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22610,
+            "stars": 22611,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:40:40.739Z",
+    "last_updated": "2026-11-22T16:59:07.599Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
