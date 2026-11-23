@@ -15,11 +15,11 @@
             "id": 11981144,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-22T12:04:37Z",
+            "last_commit": "2026-11-23T18:23:00Z",
             "open_issues": 2165,
             "owner": "languagetool-org",
             "repo": "languagetool",
-            "stars": 15287,
+            "stars": 15294,
             "topics": [
               "grammar",
               "natural-language",
@@ -47,7 +47,7 @@
             "open_issues": 180,
             "owner": "owncast",
             "repo": "owncast",
-            "stars": 11686,
+            "stars": 11694,
             "topics": [
               "activitypub",
               "broadcasting",
@@ -81,11 +81,11 @@
             "id": 40687563,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T16:57:39Z",
-            "open_issues": 1921,
+            "last_commit": "2026-11-23T18:02:33Z",
+            "open_issues": 1930,
             "owner": "oppia",
             "repo": "oppia",
-            "stars": 7000,
+            "stars": 7002,
             "topics": [
               "angular",
               "appengine",
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3648,
+            "stars": 3650,
             "topics": [
               "baking",
               "bread",
@@ -200,7 +200,7 @@
             "open_issues": 621,
             "owner": "the-turing-way",
             "repo": "the-turing-way",
-            "stars": 2205,
+            "stars": 2206,
             "topics": [
               "community",
               "data-science",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1623,
+            "stars": 1628,
             "topics": [
               "awesome",
               "awesome-list",
@@ -275,8 +275,8 @@
             "id": 329970318,
             "language": "Go Template",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T16:01:31Z",
-            "open_issues": 232,
+            "last_commit": "2026-11-23T06:46:00Z",
+            "open_issues": 230,
             "owner": "cncf",
             "repo": "glossary",
             "stars": 732,
@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 541,
+            "stars": 540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -656,11 +656,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-22T16:11:59Z",
-            "open_issues": 599,
+            "last_commit": "2026-11-23T19:42:06Z",
+            "open_issues": 616,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56969,
+            "stars": 56977,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -692,7 +692,7 @@
             "open_issues": 91,
             "owner": "dipakkr",
             "repo": "awesome-ai-engineering",
-            "stars": 22611,
+            "stars": 22621,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -733,7 +733,7 @@
             "open_issues": 48,
             "owner": "thomaspark",
             "repo": "flexboxfroggy",
-            "stars": 7383,
+            "stars": 7382,
             "topics": [
               "css",
               "flexbox",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:59:07.599Z",
+    "last_updated": "2026-11-23T21:01:18.165Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "szabgab",
       "repo": "awesome-for-non-programmers",
-      "stars": 2029,
+      "stars": 2030,
       "topics": [
         "awesome",
         "awesome-list",
